@@ -14,6 +14,7 @@ A basic Flet to check mvc in one_page_mvc.py
 ### Project Structure
 The project is organized into the following structure:
 
+```plaintext
 .
 ├── main.py
 ├── pages
@@ -24,7 +25,6 @@ The project is organized into the following structure:
 │   └── menu.py
 ├── README.md
 └── requirements.txt
-
 
 -    main.py: The main entry point of the application, setting up the page and handling navigation.
 -   pages/: Contains individual modules for each page (home, login, settings).
