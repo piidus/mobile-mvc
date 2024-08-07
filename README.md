@@ -57,6 +57,33 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 # DEPLOYMENT
-1.  [Download flutter Sdk](https://docs.flutter.dev/release/archive, target="_blank" rel="noopener")
+1.  [Download flutter Sdk](https://docs.flutter.dev/release/archive)
+    -   set into c: drive
+    -   load path in windows env file
+    -   verify installation `flutter --version`
+2.  [Download & Install android Studio](https://developer.android.com/studio)
+    -   add flutter in plugin
+
+3.  Enable Windows Developer Mode 
+    Enabling Developer Mode on Windows
+        Here's how to enable Developer Mode on Windows:
+
+        Open Developer Mode Settings:
+
+        Press Win + R to open the Run dialog.
+        Type ms-settings:developers and press Enter. This will open the Developer Mode settings.
+        Enable Developer Mode:
+
+        In the Developer Mode settings, find the "Developer Mode" section.
+        Toggle the switch to enable Developer Mode.
+        You might be prompted to confirm your choice and restart your computer. Follow any additional instructions to complete the setup.
+        Confirm Developer Mode:
+
+        Ensure that Developer Mode is turned on by returning to the Developer Mode settings page. The switch should be in the "On" position.
+
+        Restart Computer.
+
+4.  Run in cmd 
+    `flet build apk`
 
 Happy Flettings
