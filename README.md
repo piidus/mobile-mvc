@@ -25,7 +25,7 @@ The project is organized into the following structure:
 │   └── menu.py
 ├── README.md
 └── requirements.txt
-
+```
 -    main.py: The main entry point of the application, setting up the page and handling navigation.
 -   pages/: Contains individual modules for each page (home, login, settings).
 -   components/: Contains shared components like the navigation menu.
@@ -57,3 +57,4 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
+Happy Flettings
