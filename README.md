@@ -56,5 +56,7 @@ Contributions are welcome! Feel free to submit issues, fork the repository, and 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+# DEPLOYMENT
+1.  Download flutter Sdk <a "https://docs.flutter.dev/release/archive">LINK</a>
 
 Happy Flettings
