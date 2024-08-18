@@ -34,6 +34,13 @@ The project is organized into the following structure:
 -   requirements.txt: Lists the dependencies required to run the project.
 
 ### Installation
+-   For ubuntu
+`sudo apt update`
+
+`sudo apt install libmpv-dev libmpv2`
+
+`sudo ln -s /usr/lib/x86_64-linux-gnu/libmpv.so /usr/lib/libmpv.so.1`
+-   clone
 `git clone https://github.com/yourusername/my-flet-app.git`
 `cd my-flet-app`
 
